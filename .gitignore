@@ -26,9 +26,7 @@ pip-delete-this-directory.txt
 # Pytest
 .pytest_cache/
 
-# Virtual environment
-.venv
-venv/
+
 
 # Node.js
 node_modules/
